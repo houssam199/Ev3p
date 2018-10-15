@@ -1,0 +1,6 @@
+token=NTAwODcwMDg1MTM3OTI0MDk3.DqV-Pw.sskxuLHEfi_804GXbvie1tB1SUQ
+owner=446784051320193035
+prefix=3
+game=Tybe 3help
+stayinchannel=true
+songinstatus=false
